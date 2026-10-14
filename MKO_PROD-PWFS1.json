@@ -28,11 +28,6 @@
       "host": "10.2.4.109",
       "name": "production",
       "port": 2307
-    },
-    {
-      "host": "10.2.4.109",
-      "name": "mkocomprm",
-      "port": 2303
     }
   ]
 }
