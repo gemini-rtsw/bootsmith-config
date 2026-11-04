@@ -21,6 +21,7 @@
   "name": "MKO-PROD-GNIRSCC",
   "notes": "",
   "prompts": {},
+  "system": "GNIRSCC",
   "terminal_servers": [
     {
       "host": "10.2.2.86",

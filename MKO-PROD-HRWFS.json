@@ -18,6 +18,7 @@
   "name": "MKO-PROD-HRWFS",
   "notes": "",
   "prompts": {},
+  "system": "HRWFS",
   "terminal_servers": [
     {
       "host": "10.2.4.109",

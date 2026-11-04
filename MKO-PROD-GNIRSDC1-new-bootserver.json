@@ -18,6 +18,7 @@
   "name": "MKO-PROD-GNIRSDC1-new-bootserver",
   "notes": "",
   "prompts": {},
+  "system": "GNIRSDC1",
   "terminal_servers": [
     {
       "host": "10.2.2.86",

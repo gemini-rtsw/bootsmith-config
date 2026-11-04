@@ -17,6 +17,7 @@
   "name": "MKO-PROD-PWFS2",
   "notes": "",
   "prompts": {},
+  "system": "PWFS2",
   "terminal_servers": [
     {
       "host": "10.1.5.85",

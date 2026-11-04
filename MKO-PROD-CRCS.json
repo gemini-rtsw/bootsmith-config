@@ -28,6 +28,7 @@
   "name": "MKO-PROD-CRCS",
   "notes": "",
   "prompts": {},
+  "system": "CRCS",
   "terminal_servers": [
     {
       "host": "10.2.2.19",

@@ -21,6 +21,7 @@
   "name": "MKO-PROD-GMOSCC",
   "notes": "",
   "prompts": {},
+  "system": "GMOSCC",
   "terminal_servers": [
     {
       "host": "10.2.4.105",
