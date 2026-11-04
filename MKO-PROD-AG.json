@@ -28,6 +28,7 @@
   "name": "MKO-PROD-AG",
   "notes": "",
   "prompts": {},
+  "system": "AG",
   "terminal_servers": [
     {
       "host": "10.2.4.100",

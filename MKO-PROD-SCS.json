@@ -28,6 +28,7 @@
   "name": "MKO-PROD-SCS",
   "notes": "",
   "prompts": {},
+  "system": "SCS",
   "terminal_servers": [
     {
       "host": "10.2.2.19",
