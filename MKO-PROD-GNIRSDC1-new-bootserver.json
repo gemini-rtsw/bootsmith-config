@@ -1,0 +1,28 @@
+{
+  "banners": {},
+  "boot_params": {
+    "boot_device": "dc",
+    "file_name": "/gemini/external/vxWorks/tornado2.0/mv2700-niri/vxWorks",
+    "flags": "0x8",
+    "gateway_inet": "10.2.2.1",
+    "host_inet": "10.2.2.145",
+    "host_name": "mkotcsbootv2-lv1",
+    "inet_on_ethernet": "10.2.2.83",
+    "processor_number": "0",
+    "startup_script": "/gemini/epics3.13.4/gnirs/DC/DC/ppc/bin/ppc604/startup",
+    "target_name": "ngnirsdc1",
+    "unit_number": "0",
+    "user": "gemvx"
+  },
+  "loader_hint": "vxworks",
+  "name": "MKO-PROD-GNIRSDC1-new-bootserver",
+  "notes": "",
+  "prompts": {},
+  "terminal_servers": [
+    {
+      "host": "10.2.2.86",
+      "name": "production",
+      "port": 10004
+    }
+  ]
+}
