@@ -1,8 +1,8 @@
 {
   "banners": {},
   "boot_params": {
-    "argument_file_name": "/gem_prod/epics/ioc/scs_mk/stscs",
-    "boot_file_name": "/gem_prod/epics/ioc/scs_mk/scs.boot",
+    "argument_file_name": "/gem_base/epics/ioc/scs_mk/stscs",
+    "boot_file_name": "/gem_base/epics/ioc/scs_mk/scs.boot",
     "bootp_request_control": "W",
     "bootp_retry": "05",
     "broadcast_ip": "10.2.2.255",
@@ -26,7 +26,7 @@
   },
   "loader_hint": "ppcbug",
   "name": "MKO-PROD-SCS-new-bootserver",
-  "notes": "Boots scs_mk from the nfsv2 boot server mkotcsbootv2-lv1 (10.2.2.145) instead of mkortnfs-lv1 (10.2.71.30). Rollback: MKO-PROD-SCS.",
+  "notes": "Boots scs_mk from the nfsv2 boot server mkotcsbootv2-lv1 (10.2.2.145), path /gem_base/epics/ioc/scs_mk where the RPM installs, instead of mkortnfs-lv1 (10.2.71.30) /gem_prod. Rollback: MKO-PROD-SCS.",
   "prompts": {},
   "system": "SCS",
   "terminal_servers": [
